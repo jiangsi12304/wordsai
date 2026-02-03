@@ -8,9 +8,8 @@ const config: CapacitorConfig = {
   server: {
     androidScheme: 'https',
     cleartext: true,
-    // 开发时：指向本地开发服务器
-    // 生产时：Android 会使用内置的 Next.js standalone 服务器
-    url: process.env.CAPACITOR_SERVER_URL || 'http://10.0.2.2:3000',
+    // 生产环境 URL
+    url: 'https://wordsai-gqevetiyq-hjhs-projects-54e5ac92.vercel.app',
     // 允许在应用内加载任何 URL
     allowNavigation: ['*.*'],
   },

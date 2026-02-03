@@ -58,7 +58,7 @@ export function HandwritingBoard({
   useEffect(() => {
     // 初始化设置
     if (signaturePadRef.current) {
-      const pad = signaturePadRef.current;
+      const pad = signaturePadRef.current as any;
       pad.penColor = brushConfig[color].color;
       pad.minWidth = lineWidth;
       pad.maxWidth = lineWidth + 2;

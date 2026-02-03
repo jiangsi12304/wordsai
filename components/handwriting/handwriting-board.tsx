@@ -1,7 +1,7 @@
 "use client";
 
 import { useRef, useState, useEffect } from "react";
-import SignaturePad from "react-signature-pad";
+import SignatureCanvas from "react-signature-canvas";
 import {
   X,
   Check,
@@ -28,7 +28,7 @@ export function HandwritingBoard({
   onCancel,
   word,
 }: HandwritingBoardProps) {
-  const signaturePadRef = useRef<SignaturePad>(null);
+  const signaturePadRef = useRef<SignatureCanvas>(null);
   const [tool, setTool] = useState<ToolType>("pen");
   const [color, setColor] = useState<ColorType>("black");
   const [lineWidth, setLineWidth] = useState(2);
@@ -141,7 +141,7 @@ export function HandwritingBoard({
       {/* Canvas Area */}
       <div className="flex-1 relative bg-white dark:bg-zinc-900">
         <div className="absolute inset-4 border-2 border-dashed border-border rounded-lg">
-          <SignaturePad
+          <SignatureCanvas
             ref={signaturePadRef}
             canvasProps={{
               className: "w-full h-full",

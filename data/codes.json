@@ -1,0 +1,38 @@
+[
+  {
+    "code": "C2NA-NAWX-DANB",
+    "orderId": "92444b8c-43c5-4356-bf48-cb0a2ecf2871",
+    "email": "2424688217@qq.com",
+    "status": "used",
+    "created_at": "2026-02-03T03:46:22.903Z",
+    "used_at": "2026-02-03T04:11:26.964Z"
+  },
+  {
+    "code": "K2QS-KKGP-9Q6Y",
+    "orderId": "fba83638-71aa-4514-b9de-400c7fd81c95",
+    "email": "2424688217@qq.com",
+    "planName": "高级版",
+    "status": "unused",
+    "created_at": "2026-02-03T04:37:56.229Z"
+  },
+  {
+    "code": "9NUS-7S3R-RK2Z",
+    "orderId": "144f8c2b-5c1e-4597-b54c-a9de83903cd6",
+    "email": "2424688217@qq.com",
+    "planName": "旗舰版",
+    "status": "used",
+    "created_at": "2026-02-03T04:55:32.212Z",
+    "used_at": "2026-02-03T04:56:13.827Z"
+  },
+  {
+    "code": "FKGF-23NR-PW56",
+    "orderId": "b700d1e0-e39e-4ea8-97b4-bac948316558",
+    "email": "2424688217@qq.com",
+    "planName": "旗舰版",
+    "period": "终身",
+    "status": "used",
+    "created_at": "2026-02-03T05:02:01.654Z",
+    "used_at": "2026-02-03T05:02:20.976Z",
+    "used_by": "8033f0ff-fcce-4159-8708-5d4437f33311"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "email": "2424688217@qq.com",
+    "planId": "flagship-lifetime",
+    "planName": "旗舰版",
+    "planPeriod": "终身",
+    "amount": 20,
+    "payment_method": "wechat",
+    "notes": "旗舰版 - 终身",
+    "status": "paid",
+    "id": "92444b8c-43c5-4356-bf48-cb0a2ecf2871",
+    "created_at": "2026-02-03T03:46:06.884Z",
+    "paid_at": "2026-02-03T03:46:22.902Z",
+    "redemption_code": "C2NA-NAWX-DANB"
+  },
+  {
+    "email": "2424688217@qq.com",
+    "planId": "premium-year",
+    "planName": "高级版",
+    "planPeriod": "年付",
+    "amount": 5,
+    "payment_method": "wechat",
+    "notes": "高级版 - 年付",
+    "status": "paid",
+    "id": "fba83638-71aa-4514-b9de-400c7fd81c95",
+    "created_at": "2026-02-03T04:36:42.080Z",
+    "paid_at": "2026-02-03T04:37:56.228Z",
+    "redemption_code": "K2QS-KKGP-9Q6Y"
+  },
+  {
+    "email": "2424688217@qq.com",
+    "planId": "flagship-month",
+    "planName": "旗舰版",
+    "planPeriod": "月付",
+    "amount": 10,
+    "payment_method": "wechat",
+    "notes": "旗舰版 - 月付",
+    "status": "paid",
+    "id": "144f8c2b-5c1e-4597-b54c-a9de83903cd6",
+    "created_at": "2026-02-03T04:54:39.561Z",
+    "paid_at": "2026-02-03T04:55:32.211Z",
+    "redemption_code": "9NUS-7S3R-RK2Z"
+  },
+  {
+    "email": "2424688217@qq.com",
+    "planId": "flagship-lifetime",
+    "planName": "旗舰版",
+    "planPeriod": "终身",
+    "amount": 20,
+    "payment_method": "wechat",
+    "notes": "旗舰版 - 终身",
+    "status": "paid",
+    "id": "b700d1e0-e39e-4ea8-97b4-bac948316558",
+    "created_at": "2026-02-03T05:01:57.755Z",
+    "paid_at": "2026-02-03T05:02:01.653Z",
+    "redemption_code": "FKGF-23NR-PW56"
+  }
+]
